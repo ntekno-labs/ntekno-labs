@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🛡️ NTEKNO™ | SecureStack™ Labs
 
-<!--
-**ntekno-labs/ntekno-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official NTEKNO™ SecureStack™ Labs profile repository.  
 
-Here are some ideas to get you started:
+We build **real-world, scenario-based cloud security training** designed to strengthen your security posture, detect and respond to threats, and safeguard sensitive data — powered by:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Defender for Cloud  
+- Microsoft Sentinel  
+- Microsoft Purview  
+- Copilot in Azure  
+
+🔑 **Our Mission:**  
+Empower cross-role teams — SOC analysts, security engineers, compliance officers, and leadership — to collaborate effectively and respond faster when it matters most.
+
+📂 **What You'll Find Here:**  
+- 📖 **Markdown Lab Guides** — step-by-step scenario instructions  
+- 🏗 **ARM Templates** — pre-built infrastructure deployments  
+- 🔎 **KQL Queries** — detections and hunting queries for Sentinel  
+- 🔗 **Logic App Workflows** — automation for incident response  
+
+> ⚠️ **Note:** This repository is actively maintained. Access to lab content is restricted to approved collaborators.
+
+---
+
+🌐 **Learn more at:** [www.ntekno.com](https://www.ntekno.com)  
+📧 **Contact:** serlingdavis@ntekno.com
