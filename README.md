@@ -1,5 +1,12 @@
 # 🛡️ NTEKNO™ | SecureStack™ Labs
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-008272?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Purview-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot%20in%20Azure-107C10?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
 Welcome to the official NTEKNO™ SecureStack™ Labs profile repository.  
 
 We build **real-world, scenario-based cloud security training** designed to strengthen your security posture, detect and respond to threats, and safeguard sensitive data — powered by:
