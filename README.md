@@ -1,17 +1,19 @@
-<h1 align="center">🛡️ NTEKNO™ | SecureStack™ Labs</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-008272?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Purview-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot%20in%20Azure-107C10?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</p>
+# NTEKNO™ | SecureStack™ Labs  
+
+![Microsoft Defender for Cloud](https://img.shields.io/badge/Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-008272?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot in Azure](https://img.shields.io/badge/Copilot%20in%20Azure-107C10?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
 
 ---
 
-Welcome to the **official NTEKNO™ SecureStack™ Labs profile repository**.
+Welcome to the **official NTEKNO™ SecureStack™ Labs** profile repository.  
 
-We build **real-world, scenario-based cloud security training** designed to strengthen your security posture, detect and respond to threats, and safeguard sensitive data — powered by:
+We build **real-world, scenario-based cloud security training** designed to strengthen your security posture, detect and respond to threats, and safeguard sensitive data — powered by:  
 
 - Microsoft Defender for Cloud  
 - Microsoft Sentinel  
@@ -20,22 +22,29 @@ We build **real-world, scenario-based cloud security training** designed to stre
 
 ---
 
-### 🔑 Our Mission
-Empower cross-role teams — SOC analysts, security engineers, compliance officers, and leadership — to collaborate effectively and respond faster when it matters most.
+### 🔑 Our Mission  
+Empower cross-role teams — SOC analysts, security engineers, compliance officers, and leadership — to collaborate effectively and respond faster when it matters most.  
 
 ---
 
-### 📂 What You'll Find Here
+### 📂 What You'll Find Here  
+
 - 📄 **Markdown Lab Guides** — step-by-step scenario instructions  
-- 🏗️ **ARM Templates** — pre-built infrastructure deployments  
+- 🏗 **ARM Templates** — pre-built infrastructure deployments  
 - 🔍 **KQL Queries** — detections and hunting queries for Sentinel  
 - 🔄 **Logic App Workflows** — automation for incident response  
 
-> ⚠️ **Note:** This repository is actively maintained. Access to lab content is restricted to approved collaborators.
+> ⚠️ **Note:** This repository is actively maintained. Access to lab content is restricted to approved collaborators.  
 
 ---
 
-### 🌐 Learn More
-- **Website:** [www.ntekno.com](https://www.ntekno.com)  
-- **Contact:** [serlingdavis@ntekno.com](mailto:serlingdavis@ntekno.com)
+<div align="center">
+
+### 🌐 Learn More  
+
+**🌍 Website:** [www.ntekno.com](https://www.ntekno.com)  
+**📧 Contact:** [serlingdavis@ntekno.com](mailto:serlingdavis@ntekno.com)  
+
+</div>
+
 
