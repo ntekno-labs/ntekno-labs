@@ -18,7 +18,7 @@ We build **real-world, scenario-based cloud security training** designed to stre
 - Microsoft Defender for Cloud  
 - Microsoft Sentinel  
 - Microsoft Purview  
-- Copilot in Azure  
+- Microsift Security Copilot  
 
 ---
 
