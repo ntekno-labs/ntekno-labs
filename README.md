@@ -43,7 +43,7 @@ Empower cross-role teams — SOC analysts, security engineers, compliance office
 ### 🌐 Learn More  
 
 **🌍 Website:** [www.ntekno.com](https://www.ntekno.com)  
-**📧 Contact:** [serlingdavis@ntekno.com](mailto:serlingdavis@ntekno.com)  
+**📧 Contact:** [support@ntekno.com](mailto:support@ntekno.com)  
 
 </div>
 
