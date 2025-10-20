@@ -10,17 +10,6 @@
 
 </div>
 
-----
-
-# NTEKNO™ | SecureStack™ Labs  
-
-![Microsoft Defender for Cloud](https://img.shields.io/badge/Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-008272?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![Security Copilot](https://img.shields.io/badge/Microsoft%20Security%20Copilot-107C10?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-</div>
-
 ---
 
 Welcome to the **official NTEKNO™ SecureStack™ Labs** profile repository.  
